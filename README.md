@@ -6,6 +6,6 @@ A real-time white board built using `JavaScript`, `HTML` and `CSS`
 * It has **undo-redo** features for the board.
 * It has option to change colour of pen and size of both pen and eraser.
 
-* Usage eg.: When a team is presenting, everyone on the team can contribute on the canvas while sharing ideas.
+**Usage eg**: When a team is presenting, everyone on the team can contribute on the canvas while sharing ideas.
 
 [Try here!](https://sharedwhiteboard.onrender.com/)
