@@ -1,5 +1,5 @@
 // connect to socket server
-const socket = io.connect("https://shareboard-1loz.onrender.com/");
+const socket = io.connect("https://sharedwhiteboard.onrender.com");
 // *********************************Basic Setup
 // document => actual html
 
