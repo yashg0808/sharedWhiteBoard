@@ -1,0 +1,25 @@
+{
+  "name": "ScribbleBoard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "express.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "scripts": {
+    "start": "nodemon express"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohits301/ScribbleBoard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohits301/ScribbleBoard/issues"
+  },
+  "homepage": "https://github.com/rohits301/ScribbleBoard#readme"
+}
