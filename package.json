@@ -13,13 +13,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rohits301/ScribbleBoard.git"
+    "url": "git+https://github.com/yashg0808/sharedWhiteBoard.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rohits301/ScribbleBoard/issues"
+    "url": "https://github.com/yashg0808/sharedWhiteBoard/issues"
   },
-  "homepage": "https://github.com/rohits301/ScribbleBoard#readme"
+  "homepage": "https://github.com/yashg0808/sharedWhiteBoard#readme"
 }
