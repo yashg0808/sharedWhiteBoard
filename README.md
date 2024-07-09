@@ -1,4 +1,4 @@
-# Scribble-Board
+# Share White Board
 A real-time white board built using `JavaScript`, `HTML` and `CSS`
 * The application uses `Socket.io` and `Node` events to reflect back **real-time** changes to multiple users.
 * Multiple users can draw together on the same canvas, you can try it by opening it on multiple windows.
